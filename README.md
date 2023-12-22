@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, HTML 5 and PHP 😁✌️
+- 📖 I’m currently learning JavaScript, HTML 5 and PHP✌️
 - 💬 Ask me about my projects 😺
-- ⚡ Fun fact: I'm the guy who keeps going even after failing several times 🙂
-
+- 😺 Fun fact: I can move my little toe separately from the rest of toes 😁
+  
+## Hey i have a Computer Store! Just click the link below ⬇️
 https://Www.luigitechshop.com
