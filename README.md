@@ -2,7 +2,6 @@
 
 - 📖 I’m currently learning JavaScript, HTML 5 and PHP✌️
 - 💬 Ask me about my projects 😺
-- 😺 Fun fact: I can move my little toe separately from the rest of toes 😁
-  
+- 😺 Fact of me: I really enjoy the Harry Potter film saga, I'm a true Potterhead 🦉
 #### Hey i have a Computer Store! Just click the link below ⬇️
 https://www.luigitechshop.com
