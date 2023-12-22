@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey all! Welcome to my profile👋
 
 - 📖 I’m currently learning JavaScript, HTML 5 and PHP✌️
 - 💬 Ask me about my projects 😺
