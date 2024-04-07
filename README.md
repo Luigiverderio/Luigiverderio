@@ -21,3 +21,4 @@ https://www.luigitechshop.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luigiverderio&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LuigiVerderio&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
