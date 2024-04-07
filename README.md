@@ -1,7 +1,6 @@
 ### Hey all! Welcome to my profile👋
 
-- 📖 I’m currently learning JavaScript and PHP
-- 👻 Fun fact: I'm a Potterhead 🦉
+- 📖 learning JavaScript and PHP
 - ✨ Brazil to world
 - 💻 Student at SENAI-SP
 
