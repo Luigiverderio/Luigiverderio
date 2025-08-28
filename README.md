@@ -1,13 +1,8 @@
 ### Hey all! Welcome to my profile👋
-🇧🇷
 
 - 📖 learning JavaScript and PHP
-- 💻 Student at SENAI-SP
+- ✈️ Studing for INSTITUTO TECNOLÓGICO DE AÉRONAUTICA (ITA)
 
-
-  
-#### Hey i have a Computer Store! Just click the link below ⬇️
-https://www.luigitechshop.com
 
 
 ## 🌐 Socials:
