@@ -1,6 +1,6 @@
-## Hey all! Welcome to my profile👋
+## 👋 Hey all! Welcome to my profile
 
-## in progress to join at INSTITUTO TECNOLÓGICO DE AÉRONAUTICA (ITA)
+## 🎯 in progress to join at INSTITUTO TECNOLÓGICO DE AÉRONAUTICA (ITA)
 ### Since 2024 working hard
 
 
