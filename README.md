@@ -1,7 +1,8 @@
 ### Hey all! Welcome to my profile👋
+![BrezilyaBrazilFlagGIF (2)](https://github.com/user-attachments/assets/334fb00b-69b9-4d03-869c-825dd3b00a00)
+![BrezilyaBrazilFlagGIF](https://github.com/user-attachments/assets/1291f48d-2bb1-4b45-aa1f-8ea135daf44b)
 
 - 📖 learning JavaScript and PHP
-- ✨ Brazil to world
 - 💻 Student at SENAI-SP
 
 
