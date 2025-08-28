@@ -1,7 +1,7 @@
 ### Hey all! Welcome to my profile👋
 
-- 📖 learning JavaScript and PHP
-- ✈️ Studing for INSTITUTO TECNOLÓGICO DE AÉRONAUTICA (ITA)
+
+in progress to join at INSTITUTO TECNOLÓGICO DE AÉRONAUTICA (ITA)
 
 
 
