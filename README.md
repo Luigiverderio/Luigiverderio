@@ -60,7 +60,7 @@ Comecei a programar no ensino médio pela robótica, me aprofundei no técnico d
 |---|---|---|
 | 2026 | **Insper** | Ciência da Computação |
 | 2025 | Estratégia Militares | Turma ITA/IME |
-| 2023 – 2024 | **SENAI** | Técnico em Desenvolvimento de Sistemas (integrado ao EM) |
+| 2023 – 2024 | SENAI | Técnico em Desenvolvimento de Sistemas (integrado ao EM) |
 | 2022 – 2024 | SESI 227 | Ensino médio |
 
 ---
