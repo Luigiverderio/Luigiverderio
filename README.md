@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luigi Isidoro
+# Luigi Verdério
 
 **Desenvolvedor Full Stack · Estudante de Ciência da Computação**
 
