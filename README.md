@@ -70,7 +70,7 @@ Comecei a programar no ensino médio pela robótica, me aprofundei no técnico d
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/luigiverderio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/luigiverderio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luigiverderio@hotmail.com)
 
 </div>
