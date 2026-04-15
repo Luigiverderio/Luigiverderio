@@ -8,7 +8,7 @@
 ███████╗╚██████╔╝██║╚██████╔╝██║
 ╚══════╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═╝
 ```
-
+### hey, eu sou o Luigi 👋
 **Desenvolvedor Full Stack · Estudante de Ciência da Computação**
 
 São Paulo, SP · Insper 2026
