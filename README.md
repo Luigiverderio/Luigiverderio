@@ -16,7 +16,7 @@ São Paulo, SP · Insper 2026
 
 Sou desenvolvedor full stack com experiência em **web**, **dados** e **sistemas embarcados**, atualmente no 1º semestre de Ciência da Computação no **Insper**
 
-Comecei a programar no ensino médio pela robótica, me aprofundei no técnico de Desenvolvimento de Sistemas pelo **SENAI**, e desde então não parei: já construí plataformas web completas, trabalhei com análise de dados e participei de projetos de automação com Arduino.
+Comecei a programar no ensino médio pela robótica, me aprofundei no técnico de Desenvolvimento de Sistemas pelo **SENAI**, e desde então não parei: já construí plataformas web completas, participei de projetos de automação com Arduino e empreendi em algumas áreas.
 
 ---
 
