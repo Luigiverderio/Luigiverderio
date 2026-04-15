@@ -13,7 +13,7 @@
 
 São Paulo, SP · Insper 2026
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+produto+e+tecnologia;Builder+em+construção+🔨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Builder+em+construção+🔨)](https://git.io/typing-svg)
 
 </div>
 
