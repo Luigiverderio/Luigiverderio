@@ -59,7 +59,7 @@ Comecei a programar no ensino médio pela robótica, me aprofundei no técnico d
 | Período | Instituição | Curso / Atividade |
 |---|---|---|
 | 2026 | **Insper** | Ciência da Computação |
-| 2025 | Turma ITA/IME | Estratégia Militares |
+| 2025 | Estratégia Militares | Turma ITA/IME |
 | 2023 – 2024 | **SENAI** | Técnico em Desenvolvimento de Sistemas (integrado ao EM) |
 | 2022 – 2024 | SESI 227 | Ensino médio |
 
@@ -86,5 +86,5 @@ Comecei a programar no ensino médio pela robótica, me aprofundei no técnico d
 ---
 
 <div align="center">
-<sub>Aberto a oportunidades, projetos e boas conversas sobre tecnologia.</sub>
+<sub>Aberto a oportunidades, projetos e conversas sobre tecnologia.</sub>
 </div>
