@@ -22,7 +22,7 @@ São Paulo, SP · Insper 2026
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor full stack com experiência em **web**, **dados** e **sistemas embarcados**, atualmente no 1º semestre de Ciência da Computação no **Insper**
+Sou desenvolvedor full stack com experiência em **web**, **dados** e **sistemas embarcados**, atualmente no 2º semestre de Ciência da Computação no **Insper**
 
 Comecei a programar no ensino médio pela robótica, me aprofundei no técnico de Desenvolvimento de Sistemas pelo **SENAI**, e desde então não parei: já construí plataformas web completas, participei de projetos de automação com Arduino e empreendi em algumas áreas.
 
@@ -67,10 +67,10 @@ Comecei a programar no ensino médio pela robótica, me aprofundei no técnico d
 
 ## 📌 Atualmente
 
-- 🖥️ Aprofundando em **Python, Django e desenvolvimento de sistemas** no Insper
+- 🖥️ Aprofundando em **Python, Pandas, Flask e Processadores** no Insper
 - 📊 Expandindo conhecimento em **estrutura de dados e algoritmos**
 - 🔍 Explorando ideias na interseção entre **tecnologia e empreendedorismo**
-- 🏐 Jogando vôlei pelo time do Insper (porque dev sem esporte é bug)
+- 🏐 Jogando vôlei pelo time do Insper
 
 ---
 
