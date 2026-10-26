@@ -1,33 +1,3 @@
-<div align="center">
-  
-```
-██╗     ██╗   ██╗██╗ ██████╗ ██╗
-██║     ██║   ██║██║██╔════╝ ██║
-██║     ██║   ██║██║██║  ███╗██║
-██║     ██║   ██║██║██║   ██║██║
-███████╗╚██████╔╝██║╚██████╔╝██║
-╚══════╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═╝
-```
-
-### hey, eu sou o Luigi 👋
-**Desenvolvedor Full Stack · Estudante de Ciência da Computação**
-
-São Paulo, SP · Insper 2026
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Builder+em+construção+🔨)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👋 Sobre mim
-
-Sou desenvolvedor full stack com experiência em **web**, **dados** e **sistemas embarcados**, atualmente no 2º semestre de Ciência da Computação no **Insper**
-
-Comecei a programar no ensino médio pela robótica, me aprofundei no técnico de Desenvolvimento de Sistemas pelo **SENAI**, e desde então não parei: já construí plataformas web completas, participei de projetos de automação com Arduino e empreendi em algumas áreas.
-
----
-
 ## 🛠️ Stack técnico
 
 **Linguagens**
